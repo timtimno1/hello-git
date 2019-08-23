@@ -5,6 +5,7 @@ public class uva11743
 	{
 		Scanner in=new Scanner(System.in);
 		int count=in.nextInt();
+		int i=0;
 		in.nextLine();//°²§ì\n\
 		for(int z=0;z<count;z++)
 		{
